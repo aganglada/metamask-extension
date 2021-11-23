@@ -4,7 +4,7 @@ import README from './README.mdx';
 import IconWithFallback from '.';
 
 export default {
-  title: 'IconWithFallback',
+  title: 'Components/UI/IconWithFallback',
   id: __filename,
   component: IconWithFallback,
   parameters: {

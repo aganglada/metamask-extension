@@ -4,7 +4,7 @@ import README from './README.mdx';
 import SiteIcon from '.';
 
 export default {
-  title: 'SiteIcon',
+  title: 'Components/UI/SiteIcon',
   id: __filename,
   component: SiteIcon,
   parameters: {
